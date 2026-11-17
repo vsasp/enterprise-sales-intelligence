@@ -1,0 +1,12 @@
+{
+  "input_directory": "data/raw",
+  "processed_directory": "data/processed",
+  "rejected_directory": "data/rejected",
+  "reports_directory": "reports",
+  "visualizations_directory": "visualizations",
+  "database_path": "data/enterprise_sales.db",
+  "duplicate_policy": "keep_first",
+  "anomaly_discount_threshold": 0.5,
+  "high_quantity_threshold": 1000,
+  "top_n": 10
+}

@@ -1,0 +1,5 @@
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Source_File,Validation_Issue
+TXN1011,not-a-date,C008,Invalid Date Customer,P110,Unknown Item,Other,Pune,1,100,0.1,Cash,Pending,sample_sales.csv,Invalid Transaction_Date
+TXN1012,2026-04-18,C009,Invalid Quantity,P111,Test Product,Other,Pune,0,100,0.1,Cash,Pending,sample_sales.csv,Quantity must be greater than zero
+TXN1013,2026-04-19,C010,Invalid Quantity,P112,Test Product,Other,Pune,0,100,0.1,UPI,Completed,sample_sales.csv,Quantity must be greater than zero
+TXN1014,2026-05-20,C012,Sakshi ,P113,Test Product,Other,Mumbai,0,100,0.1,UPI,Completed,sample_sales.csv,Quantity must be greater than zero

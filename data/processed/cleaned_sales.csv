@@ -1,0 +1,11 @@
+Transaction_ID,Transaction_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Branch,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Source_File,Gross_Sales,Discount_Amount,Net_Sales,Year,Month,Month_Name,Year_Month
+TXN1001,2026-01-15,C001,Aarav Patil,P101,Wireless Mouse,Accessories,Pune,2,650,0.1,UPI,Completed,sample_sales.csv,1300,130.0,1170.0,2026,1,Jan,2026-01
+TXN1002,2026-01-18,C002,Meera Joshi,P102,Mechanical Keyboard,Accessories,Mumbai,1,2400,0.05,Card,Completed,sample_sales.csv,2400,120.0,2280.0,2026,1,Jan,2026-01
+TXN1003,2026-02-02,C001,Aarav Patil,P103,USB-C Hub,Accessories,Pune,3,1200,0.1,UPI,Completed,sample_sales.csv,3600,360.0,3240.0,2026,2,Feb,2026-02
+TXN1004,2026-02-11,C003,Rohan Shinde,P104,Office Chair,Furniture,Nashik,2,7500,0.15,Card,Completed,sample_sales.csv,15000,2250.0,12750.0,2026,2,Feb,2026-02
+TXN1005,2026-02-14,C004,Sana Khan,P105,Monitor 24 inch,Electronics,Mumbai,2,9800,0.2,Net Banking,Completed,sample_sales.csv,19600,3920.0,15680.0,2026,2,Feb,2026-02
+TXN1006,2026-03-03,C002,Meera Joshi,P101,Wireless Mouse,Accessories,Mumbai,4,650,0.05,UPI,Completed,sample_sales.csv,2600,130.0,2470.0,2026,3,Mar,2026-03
+TXN1007,2026-03-08,C005,Dev Deshmukh,P106,Laptop Stand,Accessories,Pune,5,950,0.1,Cash,Completed,sample_sales.csv,4750,475.0,4275.0,2026,3,Mar,2026-03
+TXN1008,2026-03-16,C006,Isha More,P107,Webcam,Electronics,Nashik,2,3200,0.55,Card,Completed,sample_sales.csv,6400,3520.0000000000005,2880.0,2026,3,Mar,2026-03
+TXN1009,2026-04-01,C003,Rohan Shinde,P108,Desk,Furniture,Nashik,1,6500,0.1,UPI,Completed,sample_sales.csv,6500,650.0,5850.0,2026,4,Apr,2026-04
+TXN1010,2026-04-12,C007,Kabir Shah,P109,USB Cable,Accessories,Mumbai,10,250,0.05,Cash,Completed,sample_sales.csv,2500,125.0,2375.0,2026,4,Apr,2026-04
